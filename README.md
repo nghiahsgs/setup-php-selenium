@@ -4,4 +4,4 @@ php selenium
 
 <img src="hd.jpg"/>
 
-<img src="hd.png"/>
+<img src="hd.PNG"/>
